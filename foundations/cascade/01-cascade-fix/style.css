@@ -15,6 +15,8 @@ body {
 
 .para {
   font-size: 22px;
+  font-family: sans-serif;
+  font-weight: 1000;
 }
 
 .confirm {
@@ -33,6 +35,7 @@ body {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
+  font-weight: 800;
 }
 
 div.text {
@@ -40,3 +43,27 @@ div.text {
   font-size: 22px;
   font-weight: 100;
 }
+.confirm.button{
+  background-color: rgb(39, 138, 39);
+  color: white
+}
+.para,
+.small-para {
+  color: hsl(0, 0%, 0%);
+  font-weight: 800;
+}
+.small-para {
+  font-size: 14px;
+  font-weight: 800;
+}
+div{
+  font-family: sans-serif;
+}
+.text.child{
+   color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+
